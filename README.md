@@ -1,4 +1,4 @@
-# goit-js-hw-11
+# goit-js-hw-09
 
 Ten projekt został zbudowany przy użyciu Vite. Aby zapoznać się i skonfigurować
 dodatkowe funkcje [zapoznaj się z dokumentacją](https://vitejs.dev/).
