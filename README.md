@@ -1,4 +1,4 @@
-# Vanilla App Template
+# goit-js-hw-11
 
 Ten projekt został zbudowany przy użyciu Vite. Aby zapoznać się i skonfigurować
 dodatkowe funkcje [zapoznaj się z dokumentacją](https://vitejs.dev/).
